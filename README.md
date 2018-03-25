@@ -1,0 +1,4 @@
+# SparkWeb
+SparkSQL实战的数据可视化部分。
+通过SparkSQLProject，将日志文件进行清洗和处理，最后将数据存入数据库中。
+SparkWeb从数据库中读取清洗过的数据，通过大数据组件Echarts将清洗结果进行可视化展现。
